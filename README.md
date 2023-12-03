@@ -1,5 +1,3 @@
-# Item_and_User_Based_Recommendation
-
 # Business Problem
 The document starts by outlining the business problem. It asks to provide 10 film recommendations for a given user ID, using both item-based and user-based recommender methods.
 
